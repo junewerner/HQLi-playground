@@ -1,0 +1,7 @@
+hqli/persistent/Post.class
+hqli/persistent/Constants.class
+hqli/core/MyApplication.class
+hqli/web/PostDto.class
+hqli/persistent/PostRepository.class
+hqli/web/PostController.class
+hqli/web/PostController$1.class
